@@ -11,5 +11,9 @@
   },
   "engines": {
     "node": ">= 0.1.98"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://git@github.com:rodnover55/connect-fs.git"
   }
 }
